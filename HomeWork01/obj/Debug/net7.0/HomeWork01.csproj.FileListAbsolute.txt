@@ -1,0 +1,15 @@
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/bin/Debug/net7.0/HomeWork01
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/bin/Debug/net7.0/HomeWork01.deps.json
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/bin/Debug/net7.0/HomeWork01.runtimeconfig.json
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/bin/Debug/net7.0/HomeWork01.dll
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/bin/Debug/net7.0/HomeWork01.pdb
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.csproj.AssemblyReference.cache
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.AssemblyInfoInputs.cache
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.AssemblyInfo.cs
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.csproj.CoreCompileInputs.cache
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.dll
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/refint/HomeWork01.dll
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.pdb
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/HomeWork01.genruntimeconfig.cache
+/Users/nurmukhammedtursynbay/Desktop/SeminarC#_HW/HomeWork01/obj/Debug/net7.0/ref/HomeWork01.dll
