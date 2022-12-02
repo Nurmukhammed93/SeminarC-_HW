@@ -2,6 +2,7 @@
 // 2,3,7 -> 7
 // 44 5 78 - > 78
 // 223 9 -> 22
+
 Console.WriteLine("Введите первое число ");
 string num1 = Console.ReadLine()!;
 int a = int.Parse(num1);
