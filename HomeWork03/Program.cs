@@ -3,6 +3,7 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
+
 Console.WriteLine("Введите число ");
 string num1 = Console.ReadLine()!;
 int num = int.Parse(num1);
